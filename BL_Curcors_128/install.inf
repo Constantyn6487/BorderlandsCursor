@@ -1,0 +1,50 @@
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",0x00000000,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%working%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%unavail%,%10%\%CUR_DIR%\%ns%,%10%\%CUR_DIR%\%we%,%10%\%CUR_DIR%\%nwse%,%10%\%CUR_DIR%\%nesw%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%,%10%\%CUR_DIR%\%up%"
+
+[Scheme.Cur]
+BL_arrow_128.cur
+BL_arrow_helpsel_128.cur
+BL_arrow_working_128.ani
+BL_arrow_busy_128.ani
+BL_arrow_cross_128.cur
+BL_arrow_beam_128.cur
+BL_arrow_unavail_128.cur
+BL_arrow_ns_128.cur
+BL_arrow_ew_128.cur
+BL_arrow_nwse_128.cur
+BL_arrow_nesw_128.cur
+BL_arrow_move_128.cur
+BL_arrow_link_hand_128.cur
+BL_arrow_pin_hand_128.cur
+BL_arrow_person_hand_128.cur
+BL_arrow_up_128.cur
+
+[Strings]
+CUR_DIR     = "Cursors\BL_BorderlandsPack"
+SCHEME_NAME = "Borderlands Cursors"
+pointer     = "BL_arrow_128.cur"
+help        = "BL_arrow_helpsel_128.cur"
+working     = "BL_arrow_working_128.ani"
+busy        = "BL_arrow_busy_128.ani"
+cross       = "BL_arrow_cross_128.cur"
+text        = "BL_arrow_beam_128.cur"
+unavail     = "BL_arrow_unavail_128.cur"
+ns          = "BL_arrow_ns_128.cur"
+we          = "BL_arrow_ew_128.cur"
+nwse        = "BL_arrow_nwse_128.cur"
+nesw        = "BL_arrow_nesw_128.cur"
+move        = "BL_arrow_move_128.cur"
+link        = "BL_arrow_link_hand_128.cur"
+pin         = "BL_arrow_pin_hand_128.cur"
+person      = "BL_arrow_person_hand_128.cur"
+up          = "BL_arrow_up_128.cur"
