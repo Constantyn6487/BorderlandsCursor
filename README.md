@@ -49,9 +49,9 @@ This project is distributed under the **CC BY-NC 4.0** (Attribution-NonCommercia
 3. Кликните правой кнопкой мыши по файлу `install.inf` и выберите **Установить** (Install).
 4. Откройте параметры мыши в Windows и выберите схему "BL_BorderlandsPack или BD_BorderlandsPack".
 
- ## 🐱‍💻 Вопросы и сообщения об ошибках принимаются через раздел **Issues** в данном репозитории.
+ ### 🐱‍💻 Вопросы и сообщения об ошибках принимаются через раздел **Issues** в данном репозитории.
 
- ## 💰 * Если вам понравился Аддон и у вас появилось желание поддержать разработчика денюшкой на ☕, то это можно сделать на [boosty](https://boosty.to/constantiniy6487/single-payment/donation/791948/target?share=target_link).
+ ### 💰 * Если вам понравился Аддон и у вас появилось желание поддержать разработчика денюшкой на ☕, то это можно сделать на [boosty](https://boosty.to/constantiniy6487/single-payment/donation/791948/target?share=target_link).
 
 ## 📜 Лицензия и Правообладатели (License & Disclaimer) 
 Этот проект распространяется под лицензией **CC BY-NC 4.0** (Attribution-NonCommercial). Вы можете свободно делиться и изменять курсоры, но не имеете права использовать их в коммерческих целях.
