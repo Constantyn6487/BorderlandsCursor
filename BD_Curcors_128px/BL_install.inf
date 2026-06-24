@@ -9,17 +9,19 @@ AddReg    = Scheme.Reg
 Scheme.Cur = 10,"%CUR_DIR%"
 
 [Scheme.Reg]
-HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",0x00000000,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%working%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%unavail%,%10%\%CUR_DIR%\%ns%,%10%\%CUR_DIR%\%we%,%10%\%CUR_DIR%\%nwse%,%10%\%CUR_DIR%\%nesw%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%,%10%\%CUR_DIR%\%up%"
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",0x00000000,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%working%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%pen%,%10%\%CUR_DIR%\%unavail%,%10%\%CUR_DIR%\%ns%,%10%\%CUR_DIR%\%we%,%10%\%CUR_DIR%\%nwse%,%10%\%CUR_DIR%\%nesw%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%,%10%\%CUR_DIR%\%up%"
 
 [Scheme.Cur]
-BD_Arrow_128.cur
-BD_Arrow_helpsel_128.cur
+BD_arrow_128.cur
+BD_arrow_helpsel_128.cur
 BD_arrow_working_128.ani
 BD_arrow_busy_128.ani
-BD_Arrow_cross_128.cur
+BD_arrow_cross_128.cur
 BD_arrow_beam_128.cur
+BD_arrow_pen_128.cur
 BD_arrow_unavail_128.cur
 BD_arrow_ns_128.cur
+BD_arrow_ew_128.cur
 BD_arrow_nwse_128.cur
 BD_arrow_nesw_128.cur
 BD_arrow_move_128.cur
@@ -30,13 +32,14 @@ BD_arrow_up_128.cur
 
 [Strings]
 CUR_DIR     = "Cursors\BD_BorderlandsPack"
-SCHEME_NAME = "Borderlands Cursors (Alt)"
-pointer     = "BD_Arrow_128.cur"
-help        = "BD_Arrow_helpsel_128.cur"
+SCHEME_NAME = "(BD)BorderlandsCursors"
+pointer     = "BD_arrow_128.cur"
+help        = "BD_arrow_helpsel_128.cur"
 working     = "BD_arrow_working_128.ani"
 busy        = "BD_arrow_busy_128.ani"
-cross       = "BD_Arrow_cross_128.cur"
+cross       = "BD_arrow_cross_128.cur"
 text        = "BD_arrow_beam_128.cur"
+pen         = "BD_arrow_pen_128.cur"
 unavail     = "BD_arrow_unavail_128.cur"
 ns          = "BD_arrow_ns_128.cur"
 we          = "BD_arrow_ew_128.cur"
