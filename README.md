@@ -2,7 +2,7 @@
 
 ![description](https://github.com/Constantyn6487/link/blob/main/Cursor%20Borderlands%201.0.png?raw=true)
 
-# [ 🌟 Borderlands Windows Cursor Pack 🌟🔗](https://github.com/Constantyn6487/BorderlandsCursor/releases/download/1.0/Borderlands_Curcors.zip)
+# [ 🌟 Borderlands Windows Cursor Pack 🌟🔗](https://github.com/Constantyn6487/BorderlandsCursor/releases/download/1.0/Borderlands_Curcorss.zip)
 
 </div>
 
@@ -49,11 +49,12 @@ This project is distributed under the **CC BY-NC 4.0** (Attribution-NonCommercia
 3. Кликните правой кнопкой мыши по файлу `install.inf` и выберите **Установить** (Install).
 4. Откройте параметры мыши в Windows и выберите схему "BL_BorderlandsPack или BD_BorderlandsPack".
 
+ ## 🐱‍💻 Вопросы и сообщения об ошибках принимаются через раздел **Issues** в данном репозитории.
+
+ ## 💰 * Если вам понравился Аддон и у вас появилось желание поддержать разработчика денюшкой на ☕, то это можно сделать на [boosty](https://boosty.to/constantiniy6487/single-payment/donation/791948/target?share=target_link).
+
 ## 📜 Лицензия и Правообладатели (License & Disclaimer) 
 Этот проект распространяется под лицензией **CC BY-NC 4.0** (Attribution-NonCommercial). Вы можете свободно делиться и изменять курсоры, но не имеете права использовать их в коммерческих целях.
 
 *Disclaimer: This is a non-commercial, fan-made project. All rights to the "Borderlands" franchise, logos, characters, and related imagery belong exclusively to Gearbox Software and 2K Games. No copyright infringement intended.*
 
- ## 🐱‍💻 Вопросы и сообщения об ошибках принимаются через раздел **Issues** в данном репозитории.
-
- ## 💰 * Если вам понравился Аддон и у вас появилось желание поддержать разработчика денюшкой на ☕, то это можно сделать на [boosty](https://boosty.to/constantiniy6487/single-payment/donation/791948/target?share=target_link).
