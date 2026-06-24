@@ -2,7 +2,7 @@
 
 ![description](https://github.com/Constantyn6487/link/blob/main/Cursor%20Borderlands%201.0.png?raw=true)
 
-# [ 🌟 Borderlands Windows Cursor Pack 🌟🔗](https://github.com/Constantyn6487/BorderlandsCursor/releases/download/1.0/Borderlands_Curcorss.zip)
+# [ 🌟 Borderlands Windows Cursor Pack 🌟🔗](https://github.com/Constantyn6487/BorderlandsCursor/releases/download/1.0/Borderlands_Curcors.zip)
 
 </div>
 
